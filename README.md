@@ -1,6 +1,9 @@
 ### ¡Hola!
 Soy Juan Manuel, inicie mis estudios en la UM en 2020 en ingenieria en informática pero actualmente estudio en la ORT ingenieria en Sistemas.
-Actualmente estoy dedicado completamente al estudio y a proyectos y trabajos personales.
+Actualmente estoy dedicado completamente al estudio y a proyectos y trabajos personales (tanto empresariales como por otras ramas como la música que es otro tema que me entusiasma).
+Estoy familiarizado con Java, Python, C, Assembler, entre otros lenguajes.
+He realizado proyectos de analisis de datos en PySpark y otras herramientas de machine learning entre servicios de Amazon. 
+Tambien participe en el desarrollo mediante React (con PrimeReact) para una aplicación web de conciliaciones bancarias.
 
 ➡️ [Linkedin](https://www.linkedin.com/in/juan-manuel-latorre/)
 
