@@ -1,6 +1,6 @@
 ### ¡Hola!
-# Soy Juan Manuel, inicie mis estudios en la UM en 2020 en ingenieria en informática pero actualmente estudio en la ORT ingenieria en Sistemas.
-# Actualmente estoy dedicado completamente al estudio y a proyectos y trabajos personales.
+Soy Juan Manuel, inicie mis estudios en la UM en 2020 en ingenieria en informática pero actualmente estudio en la ORT ingenieria en Sistemas.
+Actualmente estoy dedicado completamente al estudio y a proyectos y trabajos personales.
 Linkedin ➡️ [a link](https://www.linkedin.com/in/juan-manuel-latorre/)
 
 <!--
