@@ -5,8 +5,8 @@ Actualmente estoy dedicado completamente al estudio y a proyectos y trabajos per
 
 Estoy familiarizado con Java, Python, C, Assembler, entre otros lenguajes.
 
-He realizado proyectos de analisis de datos en PySpark y otras herramientas de machine learning entre servicios de Amazon. 
-Tambien participe en el desarrollo mediante React (con PrimeReact) para una aplicación web de conciliaciones bancarias.
+Estoy familiarizado tambien con el analisis de datos con PySpark y otras herramientas de machine learning entre las que incluyo algunos servicios de Amazon. 
+Participe en 2022 en el desarrollo mediante React (con PrimeReact) de una aplicación web para la realización de conciliaciones bancarias.
 
 ➡️ [Linkedin](https://www.linkedin.com/in/juan-manuel-latorre/)
 
