@@ -3,7 +3,7 @@ Soy Juan Manuel, inicie mis estudios en la UM en 2020 en ingenieria en informát
 
 Actualmente estoy dedicado completamente al estudio y a proyectos y trabajos personales (tanto empresariales como por otras ramas como la música que es otro tema que me entusiasma).
 
-Estoy familiarizado con Java, Python, C, Assembler, entre otros lenguajes. De igual forma manejo bases de datos relacionales, orientadas a objetos y no relacionales, he utilizado MySQL, PostgreSQL MongoDB y ZODB.
+Estoy familiarizado con Java, Python, C, Assembler, entre otros lenguajes. De igual forma manejo bases de datos relacionales, orientadas a objetos y no relacionales, he utilizado MySQL, PostgreSQL, MongoDB y ZODB.
 
 Estoy familiarizado tambien con el analisis de datos con PySpark y otras herramientas de machine learning entre las que incluyo algunos servicios de Amazon. 
 
