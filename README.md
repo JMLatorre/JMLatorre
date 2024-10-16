@@ -8,6 +8,8 @@ Estoy familiarizado tambien con el analisis de datos con PySpark y otras herrami
 Participe en el 2022 en el desarrollo mediante React (con PrimeReact) de una aplicación web para la realización de conciliaciones bancarias para la empresa GrupoTech.
 Aparte de proyectos con React y node.js he usado .NET con C# y Blazor.
 
+Conozco y he utilizado analizadores de codigo estatico y herramientas de testing como Jest y Ms.test
+
 ➡️ [Linkedin](https://www.linkedin.com/in/juan-manuel-latorre/)
 
 <!--
