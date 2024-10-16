@@ -1,11 +1,12 @@
 ### ¡Hola!
 Soy Juan Manuel, inicie mis estudios en la UM en 2020 en ingenieria en informática pero actualmente estudio en la ORT ingenieria en Sistemas.
 
-Estoy familiarizado principalmente con Java y Python, pero también manejo lenguajes como C, Haskell, Assembler, Arduino entre otros. De igual forma manejo bases de datos relacionales, orientadas a objetos y no relacionales, he utilizado MySQL, PostgreSQL, MongoDB y ZODB.
+Estoy familiarizado principalmente con Java, Python, C, C#, Haskell, Assembler, Arduino entre otros. Manejo diversas bases de datos relacionales, orientadas a objetos y no relacionales, como por ejemplo MySQL, PostgreSQL, MongoDB y ZODB.
 
 Estoy familiarizado tambien con el analisis de datos con PySpark y otras herramientas de machine learning entre las que incluyo algunos servicios de Amazon. 
 
-Participe en el 2022 en el desarrollo mediante React (con PrimeReact) de una aplicación web para la realización de conciliaciones bancarias.
+Participe en el 2022 en el desarrollo mediante React (con PrimeReact) de una aplicación web para la realización de conciliaciones bancarias para la empresa GrupoTech.
+Aparte de proyectos con React y node.js he usado .NET con c# y Blazor.
 
 ➡️ [Linkedin](https://www.linkedin.com/in/juan-manuel-latorre/)
 
