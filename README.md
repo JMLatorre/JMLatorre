@@ -1,5 +1,5 @@
 ### ¡Hola!
-Soy Juan Manuel, inicie mis estudios en la UM en 2020 en ingenieria en informática pero actualmente estudio en la ORT ingenieria en Sistemas.
+Soy Juan Manuel, inicie mis estudios en la UM en 2020 en ingenieria en telematica/informática pero actualmente estudio en la ORT ingenieria en Sistemas.
 
 Tuve distintos grados exposicion a diversos lenguajes como Python, Java, C, C#, Haskell, Assembler, Arduino, Javascript, Typescript entre otros. Los lenguajes que más domino son Python y Java.
 Manejo diversas bases de datos relacionales, orientadas a objetos y no relacionales, como por ejemplo MySQL, PostgreSQL, MongoDB y ZODB (con respectivos ORM como sequalizer o peewee).
